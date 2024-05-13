@@ -14,6 +14,7 @@
     </record>
 
      <!-- View for the form view -->
+        <!--  ini berelasi dengan module product dan oum     -->
     <record id="dimas_purchase_form_view_id" model="ir.ui.view">
         <field name="name">dimas_purchase_form_view</field>
         <field name="model">purchase.model</field>
